@@ -9,8 +9,8 @@
 
 Other resources:
 * To learn about formulating applied machine learning problems, consider taking this course (its free): [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your)
-* Analogical thinking and story telling are important to recognise opportunities for algorithmic solutions, I'd strongly recommend the following book as a fun read: Christian, Brian, and Tom Griffiths. Algorithms to live by: The computer science of human decisions. Macmillan, 2016. [amazon] [pdf]
-* David Ziganto on Simulated Datasets for Faster ML Understanding [link]
-* David Robinson on Scientific Debt, scientific debt is what we incur when we apply supervised learning algorithms while poorly formulating the problem [link]
-* Edoardo Conti on Offline Policy Evaluation: Run fewer, better A/B tests [link]
-* Sean Taylor on Designing and Evaluating metrics [link]
+* Analogical thinking and story telling are important to recognise opportunities for algorithmic solutions, I'd strongly recommend the following book as a fun read: Christian, Brian, and Tom Griffiths. Algorithms to live by: The computer science of human decisions. Macmillan, 2016.
+* David Ziganto on Simulated Datasets for Faster ML Understanding [link](https://dziganto.github.io/data%20science/eda/machine%20learning/python/simulated%20data/Simulated-Datasets-for-Faster-ML-Understanding/)
+* David Robinson on Scientific Debt, scientific debt is what we incur when we apply supervised learning algorithms while poorly formulating the problem [link](http://varianceexplained.org/r/scientific-debt/)
+* Edoardo Conti on Offline Policy Evaluation: Run fewer, better A/B tests [link](https://edoconti.medium.com/offline-policy-evaluation-run-fewer-better-a-b-tests-60ce8f93fa15)
+* Sean Taylor on Designing and Evaluating metrics [link](https://medium.com/@seanjtaylor/designing-and-evaluating-metrics-5902ad6873bf)
